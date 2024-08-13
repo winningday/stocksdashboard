@@ -21,8 +21,8 @@ This Python-based tool fetches stock data, calculates various technical indicato
 
 1. Clone this repository:
    ```shell
-    git clone https://github.com/yourusername/stock-analysis-tool.git
-    cd stock-analysis-tool
+   git clone https://github.com/winningday/stocksdashboard.git
+   cd stocksdashboard
    ```
 2. Install the required packages:
    ```sh
