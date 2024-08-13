@@ -2,3 +2,4 @@ pandas
 yfinance
 plotly
 ta
+pytest-mock
